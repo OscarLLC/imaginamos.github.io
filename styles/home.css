@@ -52,16 +52,14 @@ h6{
 .burger__button{
   width: 40px;
   height: 40px;
-  background-color: rgba(0,0,0,0.2);
   border-radius: 50%;
   display: none;
   line-height: 40px;
   text-align: center;
   position: absolute;
-  position: fixed;
   z-index: 5;
   left: 5px;
-  top: 5px;
+  top: 49px;
 }
 
 
@@ -765,7 +763,7 @@ aside{
     width: 130px;
   }
   .content__text__menu{
-    margin-left: 5px;
+    margin-left: 22px;
   }
   .search{
     width: 75%;
@@ -805,6 +803,14 @@ aside{
     margin-left: 25px;
     display: block;
     margin-top: 127px;
+  }
+
+  .aside__figure{
+    margin-top: 40px;
+  }
+
+  .text__icon{
+    margin-top: 40px;
   }
 
   .figure__content__menu{
