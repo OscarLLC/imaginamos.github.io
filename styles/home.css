@@ -395,7 +395,7 @@ justify-content: flex-end;
   border-radius: 32px;
   border: 1px solid #efecea;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  margin: 22px 11px;
+  margin: 22px 17px;
 }
 
 .description__image__banner:hover{
@@ -420,10 +420,18 @@ justify-content: flex-end;
 }
 
 .text__banner{
-  width: 15px;
+  width: 13%;
   margin-top: -53px;
   margin-left: 36px;
   font-size: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.description__title{
+  text-align: center;
 }
 
 .arrow__banner{
